@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おやすみパラリシス",
+  "base_artist": "砕糖おわり",
+  "createdAt": "2026-02-12T10:24:14.748594Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おやすみパラリシス",
+      "artist": "砕糖おわり",
+      "has_synced": false,
+      "path": "select/pl_01_おやすみパラリシス_砕糖おわり.txt"
+    }
+  ]
+}
